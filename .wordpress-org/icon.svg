@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1767 1767" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.978316,0,0,0.948084,19.1539,0)">
+        <g id="Ebene1">
+            <rect x="-19.578" y="0" width="1805.82" height="1863.41" style="fill:rgb(189,232,173);"/>
+        </g>
+    </g>
+    <g id="Ebene-1-Kopie" serif:id="Ebene 1 Kopie" transform="matrix(5.55556,0,0,5.55556,0,0)">
+        <g transform="matrix(1,0,0,1,22.428,237.85)">
+            <path d="M0,-157.7L0,-0L136.572,78.85L273.145,-0L273.145,-157.7L136.572,-236.55L0,-157.7Z" style="fill:rgb(172,210,148);fill-rule:nonzero;"/>
+        </g>
+        <g opacity="0.05">
+            <g transform="matrix(0,1,1,0,169.564,90.714)">
+                <path d="M-10.564,-147.136L147.136,-147.136L225.986,-10.564L-89.414,-10.564L-10.564,-147.136Z" style="fill:rgb(1,2,3);fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,234.745,161.191)">
+            <path d="M0,0C0,41.779 -34.183,75.963 -75.963,75.963C-117.743,75.963 -151.926,41.779 -151.926,0C-151.926,-41.78 -117.742,-75.963 -75.963,-75.963C-68.366,-75.963 -61.72,-75.014 -55.073,-73.114L-39.88,-88.307C-51.274,-92.105 -63.619,-94.954 -75.963,-94.954C-128.187,-94.954 -170.917,-52.225 -170.917,0C-170.917,52.225 -128.187,94.954 -75.963,94.954C-23.738,94.954 18.991,52.225 18.991,0L0,0ZM-114.894,-18.041L-128.187,-4.748L-85.458,37.981L9.496,-56.972L-3.798,-70.266L-85.458,11.395L-114.894,-18.041Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>
